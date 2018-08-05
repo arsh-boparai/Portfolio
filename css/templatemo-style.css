@@ -391,7 +391,7 @@ hr {
 
 .sidebar-menu {
     float: left;
-    width: 19%;
+    width: 23%;
     height: 100%;
     position: fixed;
     background-color: #282e35;
@@ -402,7 +402,7 @@ hr {
 @media screen and (max-width: 1290px) {
     .sidebar-menu {
         overflow-y: scroll;
-        width: 21%;
+        width: 30%;
     }
 }
 
